@@ -1,0 +1,6 @@
+__pycache__/
+runs/
+runs_*/
+results_*/
+logs/
+ops/
