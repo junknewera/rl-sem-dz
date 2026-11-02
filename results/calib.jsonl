@@ -1,0 +1,300 @@
+{"model": "base", "i": 0, "numbers": [3, 11, 20], "target": 71, "outcome": "correct", "value": "71", "completion": "<answer>11 + 20 * 3</answer>"}
+{"model": "base", "i": 1, "numbers": [22, 1, 18], "target": 40, "outcome": "wrong_numbers", "value": "40", "completion": "<answer>18 + 22</answer>"}
+{"model": "base", "i": 2, "numbers": [23, 3, 11], "target": 31, "outcome": "wrong_numbers", "value": "35", "completion": "<answer>3 * 11 + 2</answer>"}
+{"model": "base", "i": 3, "numbers": [14, 4, 4], "target": 15, "outcome": "near", "value": "30", "completion": "<answer>4 * 4 + 14</answer>"}
+{"model": "base", "i": 4, "numbers": [16, 4, 23], "target": 11, "outcome": "near", "value": "108", "completion": "<answer>16 + 4 * 23</answer>"}
+{"model": "base", "i": 5, "numbers": [21, 11, 4], "target": 14, "outcome": "near", "value": "95", "completion": "<answer>11 + 4 * 21</answer>"}
+{"model": "base", "i": 6, "numbers": [10, 10, 18], "target": 80, "outcome": "near", "value": "190", "completion": "<answer>10 + 18 * 10</answer>"}
+{"model": "base", "i": 7, "numbers": [10, 12, 14], "target": 16, "outcome": "wrong_numbers", "value": "24", "completion": "<answer>14 + 10</answer>"}
+{"model": "base", "i": 8, "numbers": [23, 25, 16], "target": 32, "outcome": "wrong_numbers", "value": "46", "completion": "<answer>25 + 3 * 7</answer>"}
+{"model": "base", "i": 9, "numbers": [4, 24, 9], "target": 19, "outcome": "near", "value": "29", "completion": "<answer>24 + 9 - 4</answer>"}
+{"model": "base", "i": 10, "numbers": [1, 17, 3], "target": 20, "outcome": "correct", "value": "20", "completion": "<answer>17 + 3 * 1</answer>"}
+{"model": "base", "i": 11, "numbers": [20, 13, 18], "target": 15, "outcome": "near", "value": "25", "completion": "<answer>18 + 20 - 13</answer>"}
+{"model": "base", "i": 12, "numbers": [12, 3, 7], "target": 48, "outcome": "near", "value": "33", "completion": "<answer>12 + 3 * 7</answer>"}
+{"model": "base", "i": 13, "numbers": [24, 5, 8], "target": 21, "outcome": "near", "value": "27", "completion": "<answer>8 + 24 - 5</answer>"}
+{"model": "base", "i": 14, "numbers": [8, 1, 6], "target": 14, "outcome": "wrong_numbers", "value": "14", "completion": "<answer>8 + 6</answer>"}
+{"model": "base", "i": 15, "numbers": [1, 10, 17], "target": 27, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>17 + 1</answer>"}
+{"model": "base", "i": 16, "numbers": [13, 24, 4], "target": 78, "outcome": "near", "value": "76", "completion": "<answer>24 + 13 * 4</answer>"}
+{"model": "base", "i": 17, "numbers": [23, 23, 9], "target": 37, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>23 + 9</answer>"}
+{"model": "base", "i": 18, "numbers": [6, 24, 5], "target": 25, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>24 + 6</answer>"}
+{"model": "base", "i": 19, "numbers": [16, 3, 2], "target": 22, "outcome": "correct", "value": "22", "completion": "<answer>16 + 3 * 2</answer>"}
+{"model": "base", "i": 20, "numbers": [13, 11, 6], "target": 18, "outcome": "wrong_numbers", "value": "17", "completion": "<answer>11 + 6</answer>"}
+{"model": "base", "i": 21, "numbers": [19, 5, 13], "target": 11, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>13 + 5</answer>"}
+{"model": "base", "i": 22, "numbers": [6, 5, 7], "target": 77, "outcome": "near", "value": "41", "completion": "<answer>5 * 7 + 6</answer>"}
+{"model": "base", "i": 23, "numbers": [20, 24, 10], "target": 14, "outcome": "wrong_numbers", "value": "24", "completion": "<answer>20 + 4</answer>"}
+{"model": "base", "i": 24, "numbers": [13, 3, 2], "target": 41, "outcome": "correct", "value": "41", "completion": "<answer>3 * 13 + 2</answer>"}
+{"model": "base", "i": 25, "numbers": [8, 18, 12], "target": 14, "outcome": "wrong_numbers", "value": "26", "completion": "<answer>18 + 8</answer>"}
+{"model": "base", "i": 26, "numbers": [2, 13, 18], "target": 62, "outcome": "near", "value": "44", "completion": "<answer>18 + 2 * 13</answer>"}
+{"model": "base", "i": 27, "numbers": [5, 12, 8], "target": 52, "outcome": "near", "value": "68", "completion": "<answer>12 * 5 + 8</answer>"}
+{"model": "base", "i": 28, "numbers": [2, 8, 16], "target": 10, "outcome": "near", "value": "40", "completion": "<answer>8 + 2 * 16</answer>"}
+{"model": "base", "i": 29, "numbers": [10, 13, 18], "target": 15, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>18 + 10 - 3</answer>"}
+{"model": "base", "i": 30, "numbers": [13, 24, 1], "target": 36, "outcome": "near", "value": "37", "completion": "<answer>13 + 24 * 1</answer>"}
+{"model": "base", "i": 31, "numbers": [10, 12, 20], "target": 18, "outcome": "near", "value": "22", "completion": "<answer>12 + 20 - 10</answer>"}
+{"model": "base", "i": 32, "numbers": [4, 17, 8], "target": 34, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>17 + 8</answer>"}
+{"model": "base", "i": 33, "numbers": [23, 2, 6], "target": 19, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>23 + 6</answer>"}
+{"model": "base", "i": 34, "numbers": [13, 18, 17], "target": 22, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>18 + 17 - 3</answer>"}
+{"model": "base", "i": 35, "numbers": [25, 2, 17], "target": 16, "outcome": "near", "value": "10", "completion": "<answer>25 - 17 + 2</answer>"}
+{"model": "base", "i": 36, "numbers": [1, 20, 5], "target": 99, "outcome": "wrong_numbers", "value": "115", "completion": "<answer>5 * 19 + 20</answer>"}
+{"model": "base", "i": 37, "numbers": [5, 16, 10], "target": 32, "outcome": "near", "value": "66", "completion": "<answer>16 + 5 * 10</answer>"}
+{"model": "base", "i": 38, "numbers": [7, 20, 4], "target": 52, "outcome": "near", "value": "48", "completion": "<answer>20 + 7 * 4</answer>"}
+{"model": "base", "i": 39, "numbers": [25, 6, 1], "target": 19, "outcome": "wrong_numbers", "value": "31", "completion": "<answer>6 + 25</answer>"}
+{"model": "base", "i": 40, "numbers": [19, 16, 10], "target": 25, "outcome": "wrong_numbers", "value": "26", "completion": "<answer>16 + 10</answer>"}
+{"model": "base", "i": 41, "numbers": [21, 21, 16], "target": 26, "outcome": "wrong_numbers", "value": "37", "completion": "<answer>21 + 16</answer>"}
+{"model": "base", "i": 42, "numbers": [13, 23, 10], "target": 26, "outcome": "correct", "value": "26", "completion": "<answer>13 + 23 - 10</answer>"}
+{"model": "base", "i": 43, "numbers": [8, 12, 13], "target": 52, "outcome": "near", "value": "109", "completion": "<answer>13 + 8 * 12</answer>"}
+{"model": "base", "i": 44, "numbers": [20, 24, 8], "target": 12, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>24 + 8</answer>"}
+{"model": "base", "i": 45, "numbers": [9, 12, 18], "target": 15, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>18 + 9</answer>"}
+{"model": "base", "i": 46, "numbers": [20, 4, 16], "target": 32, "outcome": "wrong_numbers", "value": "20", "completion": "<answer>16 + 4</answer>"}
+{"model": "base", "i": 47, "numbers": [5, 23, 20], "target": 38, "outcome": "near", "value": "123", "completion": "<answer>23 + 5 * 20</answer>"}
+{"model": "base", "i": 48, "numbers": [9, 4, 9], "target": 45, "outcome": "correct", "value": "45", "completion": "<answer>9 + 4 * 9</answer>"}
+{"model": "base", "i": 49, "numbers": [5, 15, 2], "target": 35, "outcome": "near", "value": "25", "completion": "<answer>15 + 5 * 2</answer>"}
+{"model": "base", "i": 50, "numbers": [10, 4, 15], "target": 21, "outcome": "wrong_numbers", "value": "19", "completion": "<answer>15 + 4</answer>"}
+{"model": "base", "i": 51, "numbers": [15, 20, 19], "target": 24, "outcome": "correct", "value": "24", "completion": "<answer>19 + 20 - 15</answer>"}
+{"model": "base", "i": 52, "numbers": [20, 16, 9], "target": 13, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>16 + 9</answer>"}
+{"model": "base", "i": 53, "numbers": [21, 4, 8], "target": 42, "outcome": "near", "value": "53", "completion": "<answer>4 * 8 + 21</answer>"}
+{"model": "base", "i": 54, "numbers": [12, 22, 19], "target": 15, "outcome": "near", "value": "29", "completion": "<answer>19 + 22 - 12</answer>"}
+{"model": "base", "i": 55, "numbers": [6, 6, 15], "target": 16, "outcome": "wrong_numbers", "value": "21", "completion": "<answer>6 + 15</answer>"}
+{"model": "base", "i": 56, "numbers": [20, 8, 10], "target": 16, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>8 + 10</answer>"}
+{"model": "base", "i": 57, "numbers": [5, 6, 16], "target": 17, "outcome": "wrong_numbers", "value": "21", "completion": "<answer>16 + 5</answer>"}
+{"model": "base", "i": 58, "numbers": [3, 4, 16], "target": 36, "outcome": "near", "value": "28", "completion": "<answer>16 + 3 * 4</answer>"}
+{"model": "base", "i": 59, "numbers": [3, 10, 12], "target": 46, "outcome": "near", "value": "42", "completion": "<answer>12 + 3 * 10</answer>"}
+{"model": "base", "i": 60, "numbers": [21, 25, 7], "target": 28, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>25 + 7</answer>"}
+{"model": "base", "i": 61, "numbers": [13, 15, 16], "target": 12, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>16 + 13</answer>"}
+{"model": "base", "i": 62, "numbers": [18, 1, 5], "target": 23, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>18 + 5</answer>"}
+{"model": "base", "i": 63, "numbers": [10, 1, 13], "target": 23, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>13 + 10</answer>"}
+{"model": "base", "i": 64, "numbers": [14, 11, 5], "target": 20, "outcome": "wrong_numbers", "value": "31", "completion": "<answer>11 + 5 * 4</answer>"}
+{"model": "base", "i": 65, "numbers": [3, 11, 9], "target": 42, "outcome": "near", "value": "38", "completion": "<answer>11 + 9 * 3</answer>"}
+{"model": "base", "i": 66, "numbers": [3, 5, 13], "target": 15, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>13 + 5</answer>"}
+{"model": "base", "i": 67, "numbers": [11, 15, 24], "target": 20, "outcome": "near", "value": "28", "completion": "<answer>15 + 24 - 11</answer>"}
+{"model": "base", "i": 68, "numbers": [5, 2, 17], "target": 83, "outcome": "near", "value": "27", "completion": "<answer>17 + 5 * 2</answer>"}
+{"model": "base", "i": 69, "numbers": [12, 16, 17], "target": 21, "outcome": "wrong_numbers", "value": "31", "completion": "<answer>16 + 17 - 2</answer>"}
+{"model": "base", "i": 70, "numbers": [1, 14, 5], "target": 75, "outcome": "near", "value": "19", "completion": "<answer>14 + 5 * 1</answer>"}
+{"model": "base", "i": 71, "numbers": [8, 19, 3], "target": 43, "outcome": "correct", "value": "43", "completion": "<answer>19 + 8 * 3</answer>"}
+{"model": "base", "i": 72, "numbers": [1, 6, 19], "target": 14, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>19 + 6</answer>"}
+{"model": "base", "i": 73, "numbers": [23, 14, 11], "target": 20, "outcome": "near", "value": "26", "completion": "<answer>14 + 23 - 11</answer>"}
+{"model": "base", "i": 74, "numbers": [16, 4, 3], "target": 76, "outcome": "near", "value": "67", "completion": "<answer>16 * 4 + 3</answer>"}
+{"model": "base", "i": 75, "numbers": [12, 2, 13], "target": 23, "outcome": "wrong_numbers", "value": "15", "completion": "<answer>13 + 2</answer>"}
+{"model": "base", "i": 76, "numbers": [21, 20, 2], "target": 39, "outcome": "correct", "value": "39", "completion": "<answer>21 + 20 - 2</answer>"}
+{"model": "base", "i": 77, "numbers": [23, 6, 15], "target": 32, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>15 + 6 * 2</answer>"}
+{"model": "base", "i": 78, "numbers": [2, 1, 9], "target": 20, "outcome": "near", "value": "11", "completion": "<answer>9 + 2 * 1</answer>"}
+{"model": "base", "i": 79, "numbers": [2, 17, 7], "target": 12, "outcome": "near", "value": "31", "completion": "<answer>17 + 2 * 7</answer>"}
+{"model": "base", "i": 80, "numbers": [1, 2, 25], "target": 26, "outcome": "near", "value": "27", "completion": "<answer>25 + 2 * 1</answer>"}
+{"model": "base", "i": 81, "numbers": [2, 18, 6], "target": 10, "outcome": "wrong_numbers", "value": "20", "completion": "<answer>18 + 2</answer>"}
+{"model": "base", "i": 82, "numbers": [14, 13, 1], "target": 27, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>14 + 13</answer>"}
+{"model": "base", "i": 83, "numbers": [12, 5, 1], "target": 72, "outcome": "wrong_numbers", "value": "67", "completion": "<answer>12 * 5 + 7</answer>"}
+{"model": "base", "i": 84, "numbers": [4, 17, 20], "target": 85, "outcome": "near", "value": "97", "completion": "<answer>17 + 20 * 4</answer>"}
+{"model": "base", "i": 85, "numbers": [24, 8, 1], "target": 15, "outcome": "near", "value": "32", "completion": "<answer>8 + 24 / 1</answer>"}
+{"model": "base", "i": 86, "numbers": [25, 15, 2], "target": 12, "outcome": "near", "value": "38", "completion": "<answer>25 + 15 - 2</answer>"}
+{"model": "base", "i": 87, "numbers": [10, 6, 2], "target": 80, "outcome": "near", "value": "62", "completion": "<answer>6 * 10 + 2</answer>"}
+{"model": "base", "i": 88, "numbers": [22, 3, 19], "target": 38, "outcome": "near", "value": "79", "completion": "<answer>22 + 3 * 19</answer>"}
+{"model": "base", "i": 89, "numbers": [7, 11, 21], "target": 17, "outcome": "wrong_numbers", "value": "28", "completion": "<answer>21 + 7</answer>"}
+{"model": "base", "i": 90, "numbers": [24, 2, 11], "target": 59, "outcome": "near", "value": "46", "completion": "<answer>24 + 11 * 2</answer>"}
+{"model": "base", "i": 91, "numbers": [15, 25, 1], "target": 40, "outcome": "near", "value": "39", "completion": "<answer>15 + 25 - 1</answer>"}
+{"model": "base", "i": 92, "numbers": [23, 17, 6], "target": 34, "outcome": "near", "value": "155", "completion": "<answer>17 + 6 * 23</answer>"}
+{"model": "base", "i": 93, "numbers": [6, 11, 14], "target": 95, "outcome": "near", "value": "80", "completion": "<answer>14 + 11 * 6</answer>"}
+{"model": "base", "i": 94, "numbers": [24, 15, 21], "target": 45, "outcome": "wrong_numbers", "value": "36", "completion": "<answer>21 + 15</answer>"}
+{"model": "base", "i": 95, "numbers": [8, 15, 24], "target": 72, "outcome": "near", "value": "144", "completion": "<answer>24 + 8 * 15</answer>"}
+{"model": "base", "i": 96, "numbers": [25, 9, 25], "target": 41, "outcome": "wrong_numbers", "value": "34", "completion": "<answer>25 + 9</answer>"}
+{"model": "base", "i": 97, "numbers": [22, 2, 13], "target": 48, "outcome": "correct", "value": "48", "completion": "<answer>22 + 13 * 2</answer>"}
+{"model": "base", "i": 98, "numbers": [3, 8, 13], "target": 63, "outcome": "near", "value": "37", "completion": "<answer>8 * 3 + 13</answer>"}
+{"model": "base", "i": 99, "numbers": [25, 14, 15], "target": 24, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>15 + 14</answer>"}
+{"model": "base", "i": 100, "numbers": [22, 24, 19], "target": 17, "outcome": "correct", "value": "17", "completion": "<answer>22 + 19 - 24</answer>"}
+{"model": "base", "i": 101, "numbers": [1, 8, 11], "target": 19, "outcome": "wrong_numbers", "value": "19", "completion": "<answer>11 + 8</answer>"}
+{"model": "base", "i": 102, "numbers": [8, 5, 12], "target": 68, "outcome": "near", "value": "52", "completion": "<answer>12 + 8 * 5</answer>"}
+{"model": "base", "i": 103, "numbers": [13, 7, 6], "target": 97, "outcome": "near", "value": "55", "completion": "<answer>7 * 6 + 13</answer>"}
+{"model": "base", "i": 104, "numbers": [3, 24, 22], "target": 30, "outcome": "near", "value": "94", "completion": "<answer>22 + 3 * 24</answer>"}
+{"model": "base", "i": 105, "numbers": [3, 20, 12], "target": 80, "outcome": "near", "value": "72", "completion": "<answer>20 * 3 + 12</answer>"}
+{"model": "base", "i": 106, "numbers": [15, 12, 7], "target": 10, "outcome": "wrong_numbers", "value": "19", "completion": "<answer>12 + 7</answer>"}
+{"model": "base", "i": 107, "numbers": [11, 21, 2], "target": 53, "outcome": "near", "value": "43", "completion": "<answer>21 + 2 * 11</answer>"}
+{"model": "base", "i": 108, "numbers": [2, 3, 15], "target": 33, "outcome": "near", "value": "21", "completion": "<answer>15 + 2 * 3</answer>"}
+{"model": "base", "i": 109, "numbers": [4, 22, 22], "target": 40, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>22 + 4 * 2</answer>"}
+{"model": "base", "i": 110, "numbers": [10, 22, 6], "target": 26, "outcome": "wrong_numbers", "value": "28", "completion": "<answer>22 + 6</answer>"}
+{"model": "base", "i": 111, "numbers": [17, 1, 6], "target": 12, "outcome": "wrong_numbers", "value": "11", "completion": "<answer>17 - 6</answer>"}
+{"model": "base", "i": 112, "numbers": [20, 3, 1], "target": 60, "outcome": "near", "value": "23", "completion": "<answer>20 + 3 * 1</answer>"}
+{"model": "base", "i": 113, "numbers": [17, 1, 9], "target": 25, "outcome": "wrong_numbers", "value": "26", "completion": "<answer>17 + 9</answer>"}
+{"model": "base", "i": 114, "numbers": [13, 12, 23], "target": 24, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>12 + 23 - 3</answer>"}
+{"model": "base", "i": 115, "numbers": [5, 20, 1], "target": 25, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>20 + 5</answer>"}
+{"model": "base", "i": 116, "numbers": [17, 23, 25], "target": 15, "outcome": "wrong_numbers", "value": "40", "completion": "<answer>23 + 17</answer>"}
+{"model": "base", "i": 117, "numbers": [2, 12, 15], "target": 25, "outcome": "near", "value": "42", "completion": "<answer>12 + 2 * 15</answer>"}
+{"model": "base", "i": 118, "numbers": [22, 23, 22], "target": 21, "outcome": "near", "value": "23", "completion": "<answer>22 + 23 - 22</answer>"}
+{"model": "base", "i": 119, "numbers": [9, 11, 1], "target": 99, "outcome": "near", "value": "20", "completion": "<answer>11 + 9 * 1</answer>"}
+{"model": "base", "i": 120, "numbers": [16, 1, 4], "target": 12, "outcome": "wrong_numbers", "value": "20", "completion": "<answer>16 + 4</answer>"}
+{"model": "base", "i": 121, "numbers": [4, 25, 5], "target": 20, "outcome": "wrong_numbers", "value": "33", "completion": "<answer>25 + 4 * 2</answer>"}
+{"model": "base", "i": 122, "numbers": [5, 7, 11], "target": 90, "outcome": "near", "value": "62", "completion": "<answer>11 * 5 + 7</answer>"}
+{"model": "base", "i": 123, "numbers": [4, 22, 2], "target": 20, "outcome": "wrong_numbers", "value": "26", "completion": "<answer>22 + 4</answer>"}
+{"model": "base", "i": 124, "numbers": [4, 5, 13], "target": 14, "outcome": "wrong_numbers", "value": "17", "completion": "<answer>13 + 4</answer>"}
+{"model": "base", "i": 125, "numbers": [10, 15, 8], "target": 13, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>15 + 8</answer>"}
+{"model": "base", "i": 126, "numbers": [1, 25, 20], "target": 45, "outcome": "wrong_numbers", "value": "45", "completion": "<answer>20 + 25</answer>"}
+{"model": "base", "i": 127, "numbers": [4, 20, 17], "target": 33, "outcome": "wrong_numbers", "value": "37", "completion": "<answer>20 + 17</answer>"}
+{"model": "base", "i": 128, "numbers": [8, 20, 4], "target": 18, "outcome": "near", "value": "24", "completion": "<answer>8 + 20 - 4</answer>"}
+{"model": "base", "i": 129, "numbers": [9, 2, 1], "target": 11, "outcome": "correct", "value": "11", "completion": "<answer>9 + 2 * 1</answer>"}
+{"model": "base", "i": 130, "numbers": [16, 15, 10], "target": 11, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>15 + 10</answer>"}
+{"model": "base", "i": 131, "numbers": [3, 21, 12], "target": 84, "outcome": "near", "value": "75", "completion": "<answer>21 * 3 + 12</answer>"}
+{"model": "base", "i": 132, "numbers": [22, 15, 10], "target": 70, "outcome": "near", "value": "235", "completion": "<answer>15 + 22 * 10</answer>"}
+{"model": "base", "i": 133, "numbers": [9, 4, 11], "target": 16, "outcome": "wrong_numbers", "value": "15", "completion": "<answer>11 + 4</answer>"}
+{"model": "base", "i": 134, "numbers": [7, 3, 14], "target": 56, "outcome": "near", "value": "35", "completion": "<answer>14 + 7 * 3</answer>"}
+{"model": "base", "i": 135, "numbers": [21, 2, 23], "target": 19, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>23 + 2</answer>"}
+{"model": "base", "i": 136, "numbers": [7, 19, 22], "target": 10, "outcome": "near", "value": "34", "completion": "<answer>19 + 22 - 7</answer>"}
+{"model": "base", "i": 137, "numbers": [3, 16, 16], "target": 29, "outcome": "near", "value": "35", "completion": "<answer>16 + 16 + 3</answer>"}
+{"model": "base", "i": 138, "numbers": [15, 16, 12], "target": 19, "outcome": "near", "value": "13", "completion": "<answer>16 + 12 - 15</answer>"}
+{"model": "base", "i": 139, "numbers": [5, 25, 18], "target": 23, "outcome": "near", "value": "38", "completion": "<answer>25 + 18 - 5</answer>"}
+{"model": "base", "i": 140, "numbers": [5, 18, 16], "target": 98, "outcome": "correct", "value": "98", "completion": "<answer>18 + 5 * 16</answer>"}
+{"model": "base", "i": 141, "numbers": [3, 7, 20], "target": 16, "outcome": "near", "value": "41", "completion": "<answer>20 + 3 * 7</answer>"}
+{"model": "base", "i": 142, "numbers": [17, 20, 11], "target": 26, "outcome": "correct", "value": "26", "completion": "<answer>17 + 20 - 11</answer>"}
+{"model": "base", "i": 143, "numbers": [9, 14, 2], "target": 63, "outcome": "near", "value": "128", "completion": "<answer>14 * 9 + 2</answer>"}
+{"model": "base", "i": 144, "numbers": [5, 15, 3], "target": 25, "outcome": "near", "value": "30", "completion": "<answer>15 + 5 * 3</answer>"}
+{"model": "base", "i": 145, "numbers": [3, 18, 11], "target": 10, "outcome": "near", "value": "51", "completion": "<answer>18 + 3 * 11</answer>"}
+{"model": "base", "i": 146, "numbers": [13, 4, 18], "target": 20, "outcome": "wrong_numbers", "value": "22", "completion": "<answer>18 + 4</answer>"}
+{"model": "base", "i": 147, "numbers": [2, 2, 24], "target": 96, "outcome": "near", "value": "28", "completion": "<answer>24 + 2 * 2</answer>"}
+{"model": "base", "i": 148, "numbers": [16, 2, 23], "target": 62, "outcome": "near", "value": "55", "completion": "<answer>23 + 16 * 2</answer>"}
+{"model": "base", "i": 149, "numbers": [25, 11, 5], "target": 31, "outcome": "near", "value": "136", "completion": "<answer>11 + 25 * 5</answer>"}
+{"model": "base", "i": 150, "numbers": [21, 8, 11], "target": 24, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>8 + 11 * 2</answer>"}
+{"model": "base", "i": 151, "numbers": [19, 1, 21], "target": 40, "outcome": "wrong_numbers", "value": "40", "completion": "<answer>19 + 21</answer>"}
+{"model": "base", "i": 152, "numbers": [12, 6, 4], "target": 10, "outcome": "wrong_numbers", "value": "10", "completion": "<answer>6 + 4</answer>"}
+{"model": "base", "i": 153, "numbers": [12, 16, 17], "target": 13, "outcome": "near", "value": "21", "completion": "<answer>16 + 17 - 12</answer>"}
+{"model": "base", "i": 154, "numbers": [5, 25, 2], "target": 75, "outcome": "near", "value": "35", "completion": "<answer>25 + 2 * 5</answer>"}
+{"model": "base", "i": 155, "numbers": [1, 8, 12], "target": 19, "outcome": "wrong_numbers", "value": "20", "completion": "<answer>12 + 8</answer>"}
+{"model": "base", "i": 156, "numbers": [13, 17, 25], "target": 29, "outcome": "wrong_numbers", "value": "39", "completion": "<answer>17 + 25 - 3</answer>"}
+{"model": "base", "i": 157, "numbers": [15, 3, 18], "target": 30, "outcome": "wrong_numbers", "value": "21", "completion": "<answer>18 + 3</answer>"}
+{"model": "base", "i": 158, "numbers": [1, 13, 4], "target": 17, "outcome": "wrong_numbers", "value": "17", "completion": "<answer>13 + 4</answer>"}
+{"model": "base", "i": 159, "numbers": [13, 5, 24], "target": 16, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>24 + 5</answer>"}
+{"model": "base", "i": 160, "numbers": [13, 16, 11], "target": 33, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>16 + 11</answer>"}
+{"model": "base", "i": 161, "numbers": [20, 3, 8], "target": 25, "outcome": "near", "value": "44", "completion": "<answer>20 + 3 * 8</answer>"}
+{"model": "base", "i": 162, "numbers": [24, 23, 3], "target": 44, "outcome": "wrong_numbers", "value": "47", "completion": "<answer>23 + 24</answer>"}
+{"model": "base", "i": 163, "numbers": [15, 3, 1], "target": 44, "outcome": "near", "value": "18", "completion": "<answer>15 + 3 * 1</answer>"}
+{"model": "base", "i": 164, "numbers": [6, 3, 1], "target": 17, "outcome": "near", "value": "19", "completion": "<answer>6 * 3 + 1</answer>"}
+{"model": "base", "i": 165, "numbers": [11, 10, 17], "target": 93, "outcome": "near", "value": "181", "completion": "<answer>11 + 17 * 10</answer>"}
+{"model": "base", "i": 166, "numbers": [18, 25, 4], "target": 11, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>25 + 4</answer>"}
+{"model": "base", "i": 167, "numbers": [14, 24, 20], "target": 18, "outcome": "wrong_numbers", "value": "38", "completion": "<answer>24 + 14</answer>"}
+{"model": "base", "i": 168, "numbers": [19, 4, 9], "target": 24, "outcome": "near", "value": "85", "completion": "<answer>9 + 4 * 19</answer>"}
+{"model": "base", "i": 169, "numbers": [16, 17, 12], "target": 11, "outcome": "near", "value": "13", "completion": "<answer>17 + 12 - 16</answer>"}
+{"model": "base", "i": 170, "numbers": [10, 8, 6], "target": 12, "outcome": "wrong_numbers", "value": "14", "completion": "<answer>8 + 6</answer>"}
+{"model": "base", "i": 171, "numbers": [5, 24, 15], "target": 72, "outcome": "wrong_numbers", "value": "39", "completion": "<answer>24 + 15</answer>"}
+{"model": "base", "i": 172, "numbers": [11, 1, 16], "target": 27, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>11 + 16</answer>"}
+{"model": "base", "i": 173, "numbers": [15, 8, 7], "target": 64, "outcome": "near", "value": "71", "completion": "<answer>8 * 7 + 15</answer>"}
+{"model": "base", "i": 174, "numbers": [8, 10, 25], "target": 23, "outcome": "near", "value": "105", "completion": "<answer>25 + 8 * 10</answer>"}
+{"model": "base", "i": 175, "numbers": [23, 4, 13], "target": 32, "outcome": "near", "value": "75", "completion": "<answer>4 * 13 + 23</answer>"}
+{"model": "base", "i": 176, "numbers": [2, 8, 17], "target": 50, "outcome": "near", "value": "33", "completion": "<answer>17 + 2 * 8</answer>"}
+{"model": "base", "i": 177, "numbers": [16, 8, 4], "target": 20, "outcome": "wrong_numbers", "value": "24", "completion": "<answer>8 + 16</answer>"}
+{"model": "base", "i": 178, "numbers": [10, 25, 2], "target": 60, "outcome": "near", "value": "45", "completion": "<answer>25 + 2 * 10</answer>"}
+{"model": "base", "i": 179, "numbers": [4, 2, 16], "target": 32, "outcome": "near", "value": "24", "completion": "<answer>16 + 4 * 2</answer>"}
+{"model": "base", "i": 180, "numbers": [14, 18, 12], "target": 20, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>18 + 12</answer>"}
+{"model": "base", "i": 181, "numbers": [12, 4, 22], "target": 70, "outcome": "correct", "value": "70", "completion": "<answer>22 + 4 * 12</answer>"}
+{"model": "base", "i": 182, "numbers": [17, 4, 18], "target": 86, "outcome": "correct", "value": "86", "completion": "<answer>18 + 4 * 17</answer>"}
+{"model": "base", "i": 183, "numbers": [23, 7, 9], "target": 25, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>23 + 7</answer>"}
+{"model": "base", "i": 184, "numbers": [23, 21, 25], "target": 27, "outcome": "wrong_numbers", "value": "43", "completion": "<answer>25 + 21 - 3</answer>"}
+{"model": "base", "i": 185, "numbers": [15, 1, 4], "target": 19, "outcome": "wrong_numbers", "value": "19", "completion": "<answer>15 + 4</answer>"}
+{"model": "base", "i": 186, "numbers": [22, 12, 16], "target": 18, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>12 + 6</answer>"}
+{"model": "base", "i": 187, "numbers": [6, 12, 24], "target": 26, "outcome": "near", "value": "30", "completion": "<answer>12 + 24 - 6</answer>"}
+{"model": "base", "i": 188, "numbers": [3, 15, 5], "target": 17, "outcome": "wrong_numbers", "value": "18", "completion": "<answer>15 + 3</answer>"}
+{"model": "base", "i": 189, "numbers": [4, 3, 20], "target": 15, "outcome": "near", "value": "32", "completion": "<answer>20 + 3 * 4</answer>"}
+{"model": "base", "i": 190, "numbers": [24, 19, 25], "target": 20, "outcome": "correct", "value": "20", "completion": "<answer>25 + 19 - 24</answer>"}
+{"model": "base", "i": 191, "numbers": [3, 12, 6], "target": 30, "outcome": "correct", "value": "30", "completion": "<answer>12 + 6 * 3</answer>"}
+{"model": "base", "i": 192, "numbers": [23, 24, 8], "target": 39, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>24 + 8</answer>"}
+{"model": "base", "i": 193, "numbers": [9, 16, 25], "target": 18, "outcome": "near", "value": "0", "completion": "<answer>9 + 16 - 25</answer>"}
+{"model": "base", "i": 194, "numbers": [14, 6, 2], "target": 96, "outcome": "near", "value": "86", "completion": "<answer>6 * 14 + 2</answer>"}
+{"model": "base", "i": 195, "numbers": [3, 19, 4], "target": 69, "outcome": "near", "value": "31", "completion": "<answer>19 + 3 * 4</answer>"}
+{"model": "base", "i": 196, "numbers": [15, 14, 13], "target": 12, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>14 + 13</answer>"}
+{"model": "base", "i": 197, "numbers": [10, 6, 7], "target": 11, "outcome": "near", "value": "9", "completion": "<answer>10 + 6 - 7</answer>"}
+{"model": "base", "i": 198, "numbers": [5, 11, 8], "target": 15, "outcome": "near", "value": "51", "completion": "<answer>11 + 5 * 8</answer>"}
+{"model": "base", "i": 199, "numbers": [16, 6, 7], "target": 17, "outcome": "wrong_numbers", "value": "13", "completion": "<answer>6 + 7</answer>"}
+{"model": "base", "i": 200, "numbers": [4, 8, 6], "target": 24, "outcome": "near", "value": "52", "completion": "<answer>8 * 6 + 4</answer>"}
+{"model": "base", "i": 201, "numbers": [14, 24, 1], "target": 11, "outcome": "near", "value": "37", "completion": "<answer>14 + 24 - 1</answer>"}
+{"model": "base", "i": 202, "numbers": [3, 25, 18], "target": 40, "outcome": "near", "value": "79", "completion": "<answer>25 + 3 * 18</answer>"}
+{"model": "base", "i": 203, "numbers": [1, 4, 19], "target": 22, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>19 + 4</answer>"}
+{"model": "base", "i": 204, "numbers": [18, 15, 11], "target": 14, "outcome": "wrong_numbers", "value": "26", "completion": "<answer>15 + 11</answer>"}
+{"model": "base", "i": 205, "numbers": [2, 13, 19], "target": 12, "outcome": "wrong_numbers", "value": "21", "completion": "<answer>19 + 2</answer>"}
+{"model": "base", "i": 206, "numbers": [10, 22, 11], "target": 21, "outcome": "wrong_numbers", "value": "31", "completion": "<answer>11 + 10 * 2</answer>"}
+{"model": "base", "i": 207, "numbers": [23, 25, 9], "target": 11, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>23 + 9</answer>"}
+{"model": "base", "i": 208, "numbers": [14, 3, 1], "target": 11, "outcome": "wrong_numbers", "value": "17", "completion": "<answer>14 + 3</answer>"}
+{"model": "base", "i": 209, "numbers": [2, 10, 2], "target": 24, "outcome": "near", "value": "14", "completion": "<answer>10 + 2 * 2</answer>"}
+{"model": "base", "i": 210, "numbers": [24, 20, 2], "target": 42, "outcome": "near", "value": "68", "completion": "<answer>20 + 2 * 24</answer>"}
+{"model": "base", "i": 211, "numbers": [12, 19, 4], "target": 27, "outcome": "near", "value": "67", "completion": "<answer>19 + 4 * 12</answer>"}
+{"model": "base", "i": 212, "numbers": [12, 16, 23], "target": 27, "outcome": "correct", "value": "27", "completion": "<answer>16 + 23 - 12</answer>"}
+{"model": "base", "i": 213, "numbers": [14, 15, 10], "target": 19, "outcome": "wrong_numbers", "value": "21", "completion": "<answer>15 + 10 - 4</answer>"}
+{"model": "base", "i": 214, "numbers": [24, 16, 20], "target": 30, "outcome": "wrong_numbers", "value": "36", "completion": "<answer>20 + 16</answer>"}
+{"model": "base", "i": 215, "numbers": [6, 6, 9], "target": 45, "outcome": "near", "value": "60", "completion": "<answer>6 * 9 + 6</answer>"}
+{"model": "base", "i": 216, "numbers": [2, 6, 8], "target": 20, "outcome": "correct", "value": "20", "completion": "<answer>8 + 6 * 2</answer>"}
+{"model": "base", "i": 217, "numbers": [2, 20, 8], "target": 80, "outcome": "near", "value": "36", "completion": "<answer>20 + 8 * 2</answer>"}
+{"model": "base", "i": 218, "numbers": [15, 8, 24], "target": 18, "outcome": "near", "value": "368", "completion": "<answer>8 + 15 * 24</answer>"}
+{"model": "base", "i": 219, "numbers": [21, 3, 22], "target": 40, "outcome": "near", "value": "85", "completion": "<answer>22 + 3 * 21</answer>"}
+{"model": "base", "i": 220, "numbers": [8, 21, 16], "target": 13, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>21 + 8</answer>"}
+{"model": "base", "i": 221, "numbers": [19, 17, 23], "target": 21, "outcome": "correct", "value": "21", "completion": "<answer>17 + 23 - 19</answer>"}
+{"model": "base", "i": 222, "numbers": [17, 12, 24], "target": 29, "outcome": "near", "value": "19", "completion": "<answer>12 + 24 - 17</answer>"}
+{"model": "base", "i": 223, "numbers": [15, 13, 5], "target": 80, "outcome": "correct", "value": "80", "completion": "<answer>13 * 5 + 15</answer>"}
+{"model": "base", "i": 224, "numbers": [24, 18, 21], "target": 28, "outcome": "wrong_numbers", "value": "39", "completion": "<answer>21 + 18</answer>"}
+{"model": "base", "i": 225, "numbers": [10, 24, 20], "target": 40, "outcome": "wrong_numbers", "value": "44", "completion": "<answer>20 + 24</answer>"}
+{"model": "base", "i": 226, "numbers": [19, 21, 18], "target": 36, "outcome": "wrong_numbers", "value": "30", "completion": "<answer>18 + 21 - 9</answer>"}
+{"model": "base", "i": 227, "numbers": [21, 2, 6], "target": 30, "outcome": "wrong_numbers", "value": "27", "completion": "<answer>21 + 6</answer>"}
+{"model": "base", "i": 228, "numbers": [16, 25, 8], "target": 50, "outcome": "near", "value": "153", "completion": "<answer>25 + 8 * 16</answer>"}
+{"model": "base", "i": 229, "numbers": [6, 16, 22], "target": 12, "outcome": "wrong_numbers", "value": "28", "completion": "<answer>16 + 6 * 2</answer>"}
+{"model": "base", "i": 230, "numbers": [22, 2, 14], "target": 10, "outcome": "near", "value": "34", "completion": "<answer>22 + 14 - 2</answer>"}
+{"model": "base", "i": 231, "numbers": [18, 3, 14], "target": 84, "outcome": "near", "value": "60", "completion": "<answer>14 * 3 + 18</answer>"}
+{"model": "base", "i": 232, "numbers": [20, 11, 16], "target": 44, "outcome": "wrong_numbers", "value": "38", "completion": "<answer>16 + 11 * 2</answer>"}
+{"model": "base", "i": 233, "numbers": [23, 1, 1], "target": 21, "outcome": "near", "value": "24", "completion": "<answer>1 + 23 * 1</answer>"}
+{"model": "base", "i": 234, "numbers": [3, 6, 25], "target": 81, "outcome": "correct", "value": "81", "completion": "<answer>25 * 3 + 6</answer>"}
+{"model": "base", "i": 235, "numbers": [5, 25, 13], "target": 17, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>13 + 5 * 2</answer>"}
+{"model": "base", "i": 236, "numbers": [3, 20, 19], "target": 36, "outcome": "near", "value": "77", "completion": "<answer>20 + 19 * 3</answer>"}
+{"model": "base", "i": 237, "numbers": [2, 25, 17], "target": 59, "outcome": "correct", "value": "59", "completion": "<answer>25 + 2 * 17</answer>"}
+{"model": "base", "i": 238, "numbers": [3, 17, 10], "target": 13, "outcome": "near", "value": "47", "completion": "<answer>17 + 3 * 10</answer>"}
+{"model": "base", "i": 239, "numbers": [1, 18, 9], "target": 27, "outcome": "correct", "value": "27", "completion": "<answer>9 + 18 * 1</answer>"}
+{"model": "base", "i": 240, "numbers": [1, 1, 22], "target": 20, "outcome": "near", "value": "23", "completion": "<answer>22 + 1 * 1</answer>"}
+{"model": "base", "i": 241, "numbers": [2, 23, 6], "target": 34, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>23 + 6</answer>"}
+{"model": "base", "i": 242, "numbers": [5, 6, 20], "target": 19, "outcome": "near", "value": "50", "completion": "<answer>20 + 5 * 6</answer>"}
+{"model": "base", "i": 243, "numbers": [14, 23, 1], "target": 37, "outcome": "wrong_numbers", "value": "37", "completion": "<answer>14 + 23</answer>"}
+{"model": "base", "i": 244, "numbers": [15, 24, 23], "target": 14, "outcome": "wrong_numbers", "value": "38", "completion": "<answer>23 + 15</answer>"}
+{"model": "base", "i": 245, "numbers": [11, 1, 21], "target": 32, "outcome": "near", "value": "31", "completion": "<answer>11 + 21 - 1</answer>"}
+{"model": "base", "i": 246, "numbers": [8, 2, 4], "target": 64, "outcome": "near", "value": "20", "completion": "<answer>8 * 2 + 4</answer>"}
+{"model": "base", "i": 247, "numbers": [24, 5, 5], "target": 23, "outcome": "near", "value": "49", "completion": "<answer>5 * 5 + 24</answer>"}
+{"model": "base", "i": 248, "numbers": [12, 2, 17], "target": 27, "outcome": "near", "value": "46", "completion": "<answer>12 + 2 * 17</answer>"}
+{"model": "base", "i": 249, "numbers": [8, 7, 9], "target": 71, "outcome": "near", "value": "65", "completion": "<answer>8 * 7 + 9</answer>"}
+{"model": "base", "i": 250, "numbers": [10, 7, 10], "target": 60, "outcome": "near", "value": "80", "completion": "<answer>10 + 7 * 10</answer>"}
+{"model": "base", "i": 251, "numbers": [21, 3, 8], "target": 26, "outcome": "near", "value": "45", "completion": "<answer>3 * 8 + 21</answer>"}
+{"model": "base", "i": 252, "numbers": [2, 1, 10], "target": 12, "outcome": "correct", "value": "12", "completion": "<answer>10 + 2 * 1</answer>"}
+{"model": "base", "i": 253, "numbers": [13, 7, 8], "target": 83, "outcome": "near", "value": "69", "completion": "<answer>8 * 7 + 13</answer>"}
+{"model": "base", "i": 254, "numbers": [21, 10, 3], "target": 73, "outcome": "correct", "value": "73", "completion": "<answer>10 + 21 * 3</answer>"}
+{"model": "base", "i": 255, "numbers": [10, 4, 20], "target": 26, "outcome": "wrong_numbers", "value": "24", "completion": "<answer>20 + 4</answer>"}
+{"model": "base", "i": 256, "numbers": [20, 22, 20], "target": 40, "outcome": "wrong_numbers", "value": "40", "completion": "<answer>20 + 20</answer>"}
+{"model": "base", "i": 257, "numbers": [18, 2, 6], "target": 54, "outcome": "near", "value": "30", "completion": "<answer>18 + 2 * 6</answer>"}
+{"model": "base", "i": 258, "numbers": [3, 13, 6], "target": 81, "outcome": "correct", "value": "81", "completion": "<answer>13 * 6 + 3</answer>"}
+{"model": "base", "i": 259, "numbers": [15, 2, 1], "target": 45, "outcome": "near", "value": "17", "completion": "<answer>15 + 2 * 1</answer>"}
+{"model": "base", "i": 260, "numbers": [5, 24, 3], "target": 40, "outcome": "near", "value": "39", "completion": "<answer>24 + 5 * 3</answer>"}
+{"model": "base", "i": 261, "numbers": [12, 4, 1], "target": 16, "outcome": "wrong_numbers", "value": "16", "completion": "<answer>12 + 4</answer>"}
+{"model": "base", "i": 262, "numbers": [3, 11, 4], "target": 45, "outcome": "near", "value": "23", "completion": "<answer>11 + 3 * 4</answer>"}
+{"model": "base", "i": 263, "numbers": [16, 17, 21], "target": 22, "outcome": "wrong_numbers", "value": "33", "completion": "<answer>17 + 16</answer>"}
+{"model": "base", "i": 264, "numbers": [23, 13, 2], "target": 59, "outcome": "near", "value": "49", "completion": "<answer>23 + 13 * 2</answer>"}
+{"model": "base", "i": 265, "numbers": [6, 11, 19], "target": 14, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>19 + 6</answer>"}
+{"model": "base", "i": 266, "numbers": [15, 7, 2], "target": 10, "outcome": "near", "value": "37", "completion": "<answer>7 + 2 * 15</answer>"}
+{"model": "base", "i": 267, "numbers": [19, 13, 14], "target": 18, "outcome": "near", "value": "8", "completion": "<answer>13 + 14 - 19</answer>"}
+{"model": "base", "i": 268, "numbers": [7, 18, 2], "target": 50, "outcome": "near", "value": "32", "completion": "<answer>18 + 7 * 2</answer>"}
+{"model": "base", "i": 269, "numbers": [12, 14, 7], "target": 70, "outcome": "wrong_numbers", "value": "28", "completion": "<answer>14 + 7 * 2</answer>"}
+{"model": "base", "i": 270, "numbers": [22, 16, 23], "target": 17, "outcome": "near", "value": "15", "completion": "<answer>22 + 16 - 23</answer>"}
+{"model": "base", "i": 271, "numbers": [8, 12, 15], "target": 10, "outcome": "wrong_numbers", "value": "23", "completion": "<answer>15 + 8</answer>"}
+{"model": "base", "i": 272, "numbers": [5, 13, 10], "target": 26, "outcome": "near", "value": "63", "completion": "<answer>13 + 5 * 10</answer>"}
+{"model": "base", "i": 273, "numbers": [6, 2, 6], "target": 18, "outcome": "correct", "value": "18", "completion": "<answer>6 * 2 + 6</answer>"}
+{"model": "base", "i": 274, "numbers": [23, 21, 3], "target": 30, "outcome": "near", "value": "90", "completion": "<answer>21 + 3 * 23</answer>"}
+{"model": "base", "i": 275, "numbers": [21, 1, 17], "target": 38, "outcome": "wrong_numbers", "value": "38", "completion": "<answer>17 + 21</answer>"}
+{"model": "base", "i": 276, "numbers": [6, 12, 8], "target": 16, "outcome": "near", "value": "60", "completion": "<answer>12 + 6 * 8</answer>"}
+{"model": "base", "i": 277, "numbers": [1, 3, 8], "target": 11, "outcome": "wrong_numbers", "value": "11", "completion": "<answer>8 + 3</answer>"}
+{"model": "base", "i": 278, "numbers": [8, 16, 6], "target": 14, "outcome": "wrong_numbers", "value": "24", "completion": "<answer>16 + 8</answer>"}
+{"model": "base", "i": 279, "numbers": [1, 19, 1], "target": 20, "outcome": "wrong_numbers", "value": "20", "completion": "<answer>19 + 1</answer>"}
+{"model": "base", "i": 280, "numbers": [2, 7, 25], "target": 64, "outcome": "near", "value": "39", "completion": "<answer>25 + 7 * 2</answer>"}
+{"model": "base", "i": 281, "numbers": [1, 15, 3], "target": 45, "outcome": "near", "value": "18", "completion": "<answer>15 + 3 * 1</answer>"}
+{"model": "base", "i": 282, "numbers": [2, 12, 4], "target": 24, "outcome": "near", "value": "20", "completion": "<answer>12 + 4 * 2</answer>"}
+{"model": "base", "i": 283, "numbers": [1, 5, 7], "target": 36, "outcome": "correct", "value": "36", "completion": "<answer>7 * 5 + 1</answer>"}
+{"model": "base", "i": 284, "numbers": [22, 1, 13], "target": 35, "outcome": "correct", "value": "35", "completion": "<answer>13 + 22 * 1</answer>"}
+{"model": "base", "i": 285, "numbers": [12, 13, 9], "target": 48, "outcome": "near", "value": "121", "completion": "<answer>13 + 9 * 12</answer>"}
+{"model": "base", "i": 286, "numbers": [25, 6, 16], "target": 71, "outcome": "near", "value": "121", "completion": "<answer>25 + 6 * 16</answer>"}
+{"model": "base", "i": 287, "numbers": [23, 5, 13], "target": 50, "outcome": "near", "value": "88", "completion": "<answer>5 * 13 + 23</answer>"}
+{"model": "base", "i": 288, "numbers": [8, 23, 2], "target": 19, "outcome": "wrong_numbers", "value": "31", "completion": "<answer>23 + 8</answer>"}
+{"model": "base", "i": 289, "numbers": [22, 19, 6], "target": 18, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>19 + 6</answer>"}
+{"model": "base", "i": 290, "numbers": [5, 1, 7], "target": 12, "outcome": "near", "value": "36", "completion": "<answer>5 * 7 + 1</answer>"}
+{"model": "base", "i": 291, "numbers": [8, 24, 1], "target": 32, "outcome": "wrong_numbers", "value": "32", "completion": "<answer>24 + 8</answer>"}
+{"model": "base", "i": 292, "numbers": [19, 10, 3], "target": 87, "outcome": "near", "value": "49", "completion": "<answer>19 + 10 * 3</answer>"}
+{"model": "base", "i": 293, "numbers": [1, 6, 11], "target": 60, "outcome": "near", "value": "17", "completion": "<answer>11 + 6 * 1</answer>"}
+{"model": "base", "i": 294, "numbers": [25, 17, 8], "target": 34, "outcome": "wrong_numbers", "value": "25", "completion": "<answer>8 + 17</answer>"}
+{"model": "base", "i": 295, "numbers": [24, 12, 1], "target": 35, "outcome": "wrong_numbers", "value": "36", "completion": "<answer>12 + 24</answer>"}
+{"model": "base", "i": 296, "numbers": [1, 16, 25], "target": 41, "outcome": "near", "value": "40", "completion": "<answer>16 + 25 - 1</answer>"}
+{"model": "base", "i": 297, "numbers": [15, 18, 25], "target": 30, "outcome": "near", "value": "28", "completion": "<answer>18 + 25 - 15</answer>"}
+{"model": "base", "i": 298, "numbers": [17, 19, 24], "target": 22, "outcome": "near", "value": "26", "completion": "<answer>19 + 24 - 17</answer>"}
+{"model": "base", "i": 299, "numbers": [7, 6, 22], "target": 21, "outcome": "wrong_numbers", "value": "29", "completion": "<answer>22 + 7</answer>"}
